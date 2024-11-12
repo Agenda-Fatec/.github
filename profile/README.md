@@ -1,7 +1,20 @@
+<div align="center">
+  
+![Logotipo da Localize Jahu](https://github.com/Agenda-Fatec/.github/blob/main/profile/assets/logo.png)
+
+</div>
 
 # Agenda Fatec
 
 Aplicação web que gerencia o agendamento de salas de aula da FATEC Jahu-SP
+
+## Autores
+- [Arthur Costa](https://github.com/arthurch-costa)
+- [Deivide Benedito](https://github.com/DeivideBS)
+- [Pablo Valentin](https://github.com/PabloValentin94)
+- [Pedro Lucatto](https://github.com/Pedro-Lucatto)
+- [Thiago Figueredo](https://github.com/thiagofjau)
+- [Vinicius Cassemira](https://github.com/ViniciusCassemira)
 
 ## Introdução
 
