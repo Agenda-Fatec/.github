@@ -1,10 +1,10 @@
 # Agenda Fatec | Apresentação Pública
 
-<img src="./Assets/Logo.png" alt="Logo"/>
+<img src="https://github.com/user-attachments/assets/c6403172-78db-4f61-b3c9-eedf33a83099" alt="Logo"/>
 
 ## 📖 Introdução
 
-O Agenda Fatec surgiu como um projeto proposto pela Fatec Jahu (SP), cujo objetivo é auxiliar o gerenciamento e agendamento de suas salas por parte das pessoas que frequentam a instituição.
+O Agenda Fatec surgiu como um projeto proposto pela **Fatec Jahu (Jaú/SP)**, cujo objetivo é **auxiliar o gerenciamento e agendamento de suas salas** por parte das pessoas que frequentam a instituição.
 
 ## 💻 Equipe de Desenvolvimento
 
@@ -15,12 +15,12 @@ O Agenda Fatec surgiu como um projeto proposto pela Fatec Jahu (SP), cujo objeti
 
 ## ▶ Aplicação
 
-Para utilizar uma versão de testes, [clique aqui](https://agenda-fatec.infinityfreeapp.com).
+Para utilizar uma **versão de testes**, [clique aqui](https://agenda-fatec.infinityfreeapp.com).
 
 ## 📚 Documentação
 
-Para encontrar toda a documentação desenvolvida até o momento, [clique aqui](https://github.com/Agenda-Fatec/Documentos).
+Para encontrar toda a **documentação** desenvolvida até o momento, [clique aqui](https://github.com/Agenda-Fatec/Documentos).
 
 ## ☎ Contato
 
-Caso possua alguma dúvida ou sugestão pertinente ao desenvolvimento do projeto, entre em contato pelo e-mail [pablo.valentin@fatec.sp.gov.br](mailto:pablo.valentin@fatec.sp.gov.br).
+Caso possua alguma dúvida ou sugestão pertinente ao desenvolvimento do projeto, entre em contato pelo e-mail **[pablo.valentin@fatec.sp.gov.br](mailto:pablo.valentin@fatec.sp.gov.br)**.
